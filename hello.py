@@ -1,2 +1,2 @@
-name=input('enter name:')
+name=input('commit name:')
 print('hello',name)

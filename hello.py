@@ -4,3 +4,5 @@ if name==("Jane"):
     print('Correct')
 else:
     print('False')
+for i in range(100):
+    print(i) 

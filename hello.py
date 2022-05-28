@@ -1,2 +1,2 @@
-name=input('commit2 name:')
+name=input('Jane name:')
 print('hello',name)
